@@ -1,4 +1,4 @@
-# Forging Civic Innovation
+# CHAPTER 01: Forging Civic Innovation
 
 When Pittsburgh celebrated its 200th anniversary in 1958, the “Pittsburgh Renaissance” of Mayor David L. Lawrence was well underway. Using its bicentennial as a moment to chart a new course, the city looked to a future without the soot and smog that it was famous for—a chance, under the slogan of “Gateway to the Future,” to quite literally clear the air. At the time, the region’s leadership envisioned a future built as much around banking, education, and technology as the past was built around the steel mills along the rivers.
 
